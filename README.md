@@ -1,0 +1,2 @@
+# Dangling Pointer in C
+This repository demonstrates a common error in C programming: using a dangling pointer after freeing the memory it points to.  The `bug.c` file contains code that exhibits this issue. The `bugSolution.c` file offers a corrected version.  Dangling pointers are a serious problem that can lead to unpredictable behavior and program crashes. This example highlights the importance of careful memory management in C.
